@@ -1,0 +1,4 @@
+unrealcv
+numpy
+Pillow
+python3-matplotlib

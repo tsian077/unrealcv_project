@@ -1,4 +1,3 @@
-import sys, atexit, argparse, json, time
 from unrealcv import client
 
 trajectory = []
