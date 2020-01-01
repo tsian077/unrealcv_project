@@ -31,3 +31,12 @@ Step4: Create image
 ```
 python3 read_camera_trajectory.py
 ```
+
+
+------------------------------------------------------------------
+## Other application
+
+Image warping with depth 
+https://learnml.today/opencv-automatic-cropping-and-image-warping-2?fbclid=IwAR0ZB_bBbM1ItryW6HqmzXwU8WuchcLsGiy9jsfwWmYcYRG1u0JOuWEu9p0
+
+python3 opencv_cropping_image_warping.py
